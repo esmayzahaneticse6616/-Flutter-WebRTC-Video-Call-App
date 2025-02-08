@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574921596569",
+    "project_id": "organicplus-8dff2",
+    "storage_bucket": "organicplus-8dff2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574921596569:android:cfc5e36b8d72dceac42208",
+        "android_client_info": {
+          "package_name": "com.alamin.video_streaming_with_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZMDiVTBaZOCdlJVTvPewrEhf8QKF-28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574921596569:android:e5b800fae7323f5ec42208",
+        "android_client_info": {
+          "package_name": "com.pinamir.organic_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZMDiVTBaZOCdlJVTvPewrEhf8QKF-28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
